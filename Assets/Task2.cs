@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Names;
 using Unity.VisualScripting;
 
 public class Task2 : MonoBehaviour
